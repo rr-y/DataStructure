@@ -1,5 +1,5 @@
 // basic graph dfs bfs no of connected components
-// adjacency list implementation
+// adjacency list implementation find
 
 #include<bits/stdc++.h>
 using namespace std;
